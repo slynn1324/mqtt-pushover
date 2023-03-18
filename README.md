@@ -1,4 +1,4 @@
-#mqtt-pushover
+# mqtt-pushover
 
 a simple bridge for mqtt to pushover api requests
 
